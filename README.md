@@ -1,2 +1,2 @@
-# GEIARetriever
-My own EIA retriever to retrieve EIA data for the purprose of trading.
+# Housing Project
+I did a housing project for myself.
